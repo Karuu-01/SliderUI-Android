@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">SliderApp</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT!</string>
+
+    <string name="slide_1_title">Hello World!</string>
+    <string name="slide_1_desc">The easiest way to travel</string>
+
+    <string name="slide_2_title">Book Your Room</string>
+    <string name="slide_2_desc">Book rooms on affordable basis</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on each deal</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation mode</string>
+
+    <string name="play_again_de">To go to the HomePage click below</string>
+    <string name="play_again">Welcome!</string>
 </resources>
